@@ -149,7 +149,12 @@
           },
           "title": "北中有巢事 黑冠麻鷺成長紀錄",
           "text": "<span style=\"font-style: normal;\">從2017.4.6黑冠麻鷺爸爸、媽媽開始築巢起，花了約一個星期的時間，把小鷺鷺們的家建設完成。接下來歷經1個月的孵化期(2017.4.12-2017.5.12)，期間是黑冠麻鷺爸爸與媽媽共同孵化照顧，2017.5.12的凌晨，第一隻小鷺鷺正式破殼誕生，到2017.5.18下午，共觀察到4隻的小鷺鷺。期待了一個多月，小鷺鷺們終於到來，更多關於她們的影片與照片，可以點選北中首頁/校園相簿/黑冠麻鷺錄影直播或黑冠麻鷺家族照片。</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://www.youtube.com/playlist?list=PLWI_RBuQ0mSn14HAF8pH5N-fJRMrnUbw3\" data-toolbar=\"-mbrBtnMove\">錄影直播</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://www.ptjhs.chc.edu.tw/xoops/modules/tadgallery/index.php?csn=69\" data-toolbar=\"-mbrBtnMove\">家族照片</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://www.youtube.com/playlist?list=PLWI_RBuQ0mSn14HAF8pH5N-fJRMrnUbw3\" data-toolbar=\"-mbrBtnMove\">錄影直播</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://www.ptjhs.chc.edu.tw/xoops/modules/tadgallery/index.php?csn=69\" data-toolbar=\"-mbrBtnMove\">家族照片</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          }
         },
         {
           "_name": "footer1",
